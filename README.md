@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @sharath1249
+- 👋 Hello, I’m Sharath
 - 👀 I’m interested in.. all-things-data
 - 🌱 I’m currently learning.. all-things-data
 - 💞️ I’m looking to collaborate on.. all-things-data
